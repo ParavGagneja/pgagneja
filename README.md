@@ -1,4 +1,3 @@
-# pgagneja
-My first repository
-
-I am working on first lab.
+First repository
+  Parav Gagneja
+  OPS445NAA
